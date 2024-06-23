@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- markdownlint-disable-next-line -->
 <div align="center">
 
@@ -81,3 +82,21 @@ This project is published under [MIT License][license].
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [vscode]: https://code.visualstudio.com/
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+=======
+# 개인 블로그 웹사이트 🌼🔆❇️
+>
+> [https://aajy.github.io/](https://aajy.github.io/)
+
+<small>: jekyll로 제작한 GitHub Blog 입니다.</small>
+
+---
+### 🔗목차
+1. [TODO](https://github.com/aajy/aajy.github.io/new/main?filename=README.md#todo)
+2. [Page 구성](https://github.com/aajy/aajy.github.io/new/main?filename=README.md#page-%EA%B5%AC%EC%84%B1)
+---
+### TODO
+- [ ] jekyll 블로그 키우기
+- [ ] -
+---
+### Page 구성
+>>>>>>> c67f8c28e10e592ebdbd056a3a5fd6278d3f8242
